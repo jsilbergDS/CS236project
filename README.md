@@ -1,14 +1,15 @@
-## Modeling Highway Removal ##
+## Modeling Highway Removal
 
 ### "Segregation by design" in America's highways ###
 
 "There is racism physically built into some of our highways, and that’s why the jobs plan has specifically committed to reconnect some of the communities that were divided by these dollars" - US Secretary of Transportation Pete Buttigieg 
 
-In 2021, Congress passed a bipartisan bill with over $1 trillion in new infrastructure spending, to modernize America's highways, railroads, and airports. But over one billion dollars in the bill was marked for a cause that may surprise you: not building new infrastructure, but tearing down old highways. 
-
-The New York Times has documented the history of some of these highways, "While Interstates were regularly used to destroy black neighborhoods, they were also used to keep black and white neighborhoods apart. Today, major roads and highways serve as stark dividing lines between black and white sections in cities like Buffalo, Hartford, Kansas City, Milwaukee, Pittsburgh and St. Louis. In Atlanta, the intent to segregate was crystal clear. Interstate 20, the east-west corridor that connects with I-75 and I-85 in Atlanta’s center, was deliberately plotted along a winding route in the late 1950s to serve, in the words of Mayor Bill Hartsfield, as 'the boundary between the white and Negro communities' on the west side of town."
+In 2021, Congress passed a bipartisan bill with over $1 trillion in new infrastructure spending, to modernize America's highways, railroads, and airports. But over one billion dollars in the bill was marked for a cause that may surprise you: not building new infrastructure, but tearing down old highways. The New York Times has documented the history of some of these highways, "While Interstates were regularly used to destroy black neighborhoods, they were also used to keep black and white neighborhoods apart. Today, major roads and highways serve as stark dividing lines between black and white sections in cities like Buffalo, Hartford, Kansas City, Milwaukee, Pittsburgh and St. Louis. In Atlanta, the intent to segregate was crystal clear. Interstate 20, the east-west corridor that connects with I-75 and I-85 in Atlanta’s center, was deliberately plotted along a winding route in the late 1950s to serve, in the words of Mayor Bill Hartsfield, as “the boundary between the white and Negro communities” on the west side of town."
 
 More recently, local activists have led a movement to bring down some of the most famous of these highways, and reconnect and restore the communities impacted by them. For example, in New Orleans, community leader Amy Stelly told the Times, "We have been talking about what to do with the highway for as long as I can remember," referring to the Claiborne Expressway.
+
+![Houston](Houston.jpg)
+Highways often form the dividing lines between neighborhoods with different racial makeup. Sometimes, creating that divide was intentional. 
 
 There has been significant additional journalism on the importance of removing these highways, including this article about Los Angeles, this op-ed calling for more beyond the $1 billion initial investment, this overview of the cities proposing to remove highways and the status of current projects, and this visualization of the Rondo neighborhood in St. Paul and the Treme neighborhood in New Orleans (bisected by the Claiborne Expressway). 
 
