@@ -45,7 +45,7 @@ Results:
 
 <p align="center">
   <img src="Results1.png" />
-  <img src="Results2.jpg" />
+  <img src="Results2.png" />
 </p>
 
 Demo:
