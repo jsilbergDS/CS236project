@@ -41,7 +41,7 @@ We wanted to use these models to support activists and urban planners imagining 
 Example images of residential neighborhoods and surface-roads from our training data
 </p>
 
-Results: 
+Sample initial results: 
 
 <p align="center">
   <img src="Results1.png" />
