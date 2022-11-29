@@ -41,7 +41,7 @@ We wanted to use these models to support activists and urban planners imagining 
 Example images of residential neighborhoods and surface-roads from our training data
 </p>
 
-Sample initial results: 
+### Sample initial results: 
 
 <p align="center">
   <img src="Results1.png" />
@@ -52,7 +52,7 @@ Demo:
 
 Want to use the web app yourself? Contact Jake Silberg (jsilberg at stanford.edu) for access.
 
-Next steps: 
+### Next steps: 
 
 We are working to add new ways for users to interact with our web app, including through sketches or through identifying a set of metrics they want to optimize for.
 
