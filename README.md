@@ -1,6 +1,6 @@
-## Modeling Highway Removal
+## Modeling Highway Removal With Generative Modeling
 
-### "Segregation by design" in America's highways ###
+### Background: "Segregation by design" in America's highways ###
 
 #### "There is racism physically built into some of our highways, and that’s why the jobs plan has specifically committed to reconnect some of the communities that were divided by these dollars" - US Secretary of Transportation Pete Buttigieg 
 
