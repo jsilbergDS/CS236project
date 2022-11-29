@@ -10,8 +10,10 @@ More recently, local activists have led a movement to bring down some of the mos
 
 <p align="center">
   <img src="Houston.png" width="600" height="365" />
+</p>
+<p align="center">
 Highways often form the dividing lines between neighborhoods with different racial makeup. Sometimes, creating that divide was intentional. 
- </p>
+</p>
 
 There has been significant additional journalism on the importance of removing these highways, including this article about Los Angeles, this op-ed calling for more beyond the $1 billion initial investment, this overview of the cities proposing to remove highways and the status of current projects, and this visualization of the Rondo neighborhood in St. Paul and the Treme neighborhood in New Orleans (bisected by the Claiborne Expressway). 
 
