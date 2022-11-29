@@ -43,6 +43,11 @@ Example images of residential neighborhoods and surface-roads from our training 
 
 Results: 
 
+<p align="center">
+  <img src="Results1.png" />
+  <img src="Results2.jpg" />
+</p>
+
 Demo:
 
 Want to use the web app yourself? Contact Jake Silberg (jsilberg at stanford.edu) for access.
