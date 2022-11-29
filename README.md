@@ -65,3 +65,6 @@ Schmidt, Victor, et al. "ClimateGAN: Raising Climate Change Awareness by Generat
 Yu, Jiahui, et al. "Free-form image inpainting with gated convolution." Proceedings of the IEEE/CVF international conference on computer vision. 2019.
 
 Stanford ML Group: AI for Climate Change data processing. https://stanfordmlgroup.github.io/
+
+Note: This website is an initial Work In Progress preview of our research and subject to change as the work progresses
+
