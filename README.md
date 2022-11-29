@@ -31,9 +31,9 @@ We wanted to use these models to support activists and urban planners imagining 
 3: We trained a diffusion model on 5,000 images without highways. As a result, the diffusion model attempts to paint in the mask based on the surrounding neighborhood. Because it has never seen a highway in training, it will inpaint with housing, new businesses, and new parks where the highway "used to be" in the image. 
 
 <p align="center">
-  <img src="Example1.png" width="512" height="512" />
-  <img src="Example2.png" width="512" height="512" />
-  <img src="Example3.png" width="512" height="512" />
+  <img src="Example1.png" width="256" height="256" />
+  <img src="Example2.png" width="256" height="256" />
+  <img src="Example3.png" width="256" height="256" />
 </p>
 <p align="center">
 Example images of residential neighborhoods and surface-roads from our training data
