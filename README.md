@@ -8,7 +8,7 @@ In 2021, Congress passed a bipartisan bill with over $1 trillion in new infrastr
 
 More recently, local activists have led a movement to bring down some of the most famous of these highways, and reconnect and restore the communities impacted by them. For example, in New Orleans, community leader Amy Stelly told the Times, "We have been talking about what to do with the highway for as long as I can remember," referring to the Claiborne Expressway.
 
-![Houston](Houston.jpg)
+![Houston](Houston.png)
 Highways often form the dividing lines between neighborhoods with different racial makeup. Sometimes, creating that divide was intentional. 
 
 There has been significant additional journalism on the importance of removing these highways, including this article about Los Angeles, this op-ed calling for more beyond the $1 billion initial investment, this overview of the cities proposing to remove highways and the status of current projects, and this visualization of the Rondo neighborhood in St. Paul and the Treme neighborhood in New Orleans (bisected by the Claiborne Expressway). 
