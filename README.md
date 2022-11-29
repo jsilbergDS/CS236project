@@ -2,7 +2,7 @@
 
 ### "Segregation by design" in America's highways ###
 
-"There is racism physically built into some of our highways, and that’s why the jobs plan has specifically committed to reconnect some of the communities that were divided by these dollars" - US Secretary of Transportation Pete Buttigieg 
+#### "There is racism physically built into some of our highways, and that’s why the jobs plan has specifically committed to reconnect some of the communities that were divided by these dollars" - US Secretary of Transportation Pete Buttigieg 
 
 In 2021, Congress passed a bipartisan bill with over $1 trillion in new infrastructure spending, to modernize America's highways, railroads, and airports. But over one billion dollars in the bill was marked for a cause that may surprise you: not building new infrastructure, but tearing down old highways. The New York Times has documented the history of some of these highways, "While Interstates were regularly used to destroy black neighborhoods, they were also used to keep black and white neighborhoods apart. Today, major roads and highways serve as stark dividing lines between black and white sections in cities like Buffalo, Hartford, Kansas City, Milwaukee, Pittsburgh and St. Louis. In Atlanta, the intent to segregate was crystal clear. Interstate 20, the east-west corridor that connects with I-75 and I-85 in Atlanta’s center, was deliberately plotted along a winding route in the late 1950s to serve, in the words of Mayor Bill Hartsfield, as “the boundary between the white and Negro communities” on the west side of town."
 
@@ -27,6 +27,10 @@ We wanted to use these models to support activists and urban planners imagining 
 2: We use OpenStreetMaps data to identify and mask the highway in the image (generating a mask that covers all pixels within a certain distance of a highway node from OSM)
 
 3: We trained a diffusion model on 5,000 images without highways. As a result, the diffusion model attempts to paint in the mask based on the surrounding neighborhood. Because it has never seen a highway in training, it will inpaint with housing, new businesses, and new parks where the highway "used to be" in the image. 
+
+<p align="center">
+  <img src="Workflow.png" width="600" height="312" />
+</p>
 
 Results: 
 
