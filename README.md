@@ -48,7 +48,7 @@ Example images of residential neighborhoods and surface-roads from our training 
   <img src="Results2.png" height="295"/>
 </p>
 
-Demo:
+### Demo:
 
 Want to use the web app yourself? Contact Jake Silberg (jsilberg at stanford.edu) for access.
 
@@ -56,3 +56,12 @@ Want to use the web app yourself? Contact Jake Silberg (jsilberg at stanford.edu
 
 We are working to add new ways for users to interact with our web app, including through sketches or through identifying a set of metrics they want to optimize for.
 
+### Citations:
+
+Meng, Chenlin, et al. "Sdedit: Image synthesis and editing with stochastic differential equations." arXiv preprint arXiv:2108.01073 (2021).
+
+Schmidt, Victor, et al. "ClimateGAN: Raising Climate Change Awareness by Generating Images of Floods." arXiv preprint arXiv:2110.02871 (2021).
+
+Yu, Jiahui, et al. "Free-form image inpainting with gated convolution." Proceedings of the IEEE/CVF international conference on computer vision. 2019.
+
+Stanford ML Group: AI for Climate Change data processing. https://stanfordmlgroup.github.io/
