@@ -44,8 +44,8 @@ Example images of residential neighborhoods and surface-roads from our training 
 ### Sample initial results: 
 
 <p align="center">
-  <img src="Results1.png" />
-  <img src="Results2.png" />
+  <img src="Results1.png" height="300"/>
+  <img src="Results2.png" height="300"/>
 </p>
 
 Demo:
