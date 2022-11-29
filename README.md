@@ -1,4 +1,6 @@
-## Modeling Highway Removal With Generative Modeling
+<div class="header">
+  <h1>Modeling Highway Removal With Generative Modeling</h1>
+</div>
 
 ### Background: "Segregation by design" in America's highways ###
 
